@@ -1,0 +1,71 @@
+{
+    "name": "Simperium",
+    "description": "Sync instantly across iOS, Android, the web and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1234-simperium.jpg",
+    "tags": [
+        "aggregation",
+        "data",
+        "have api",
+        "nyc",
+        "programming"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/simperium\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Simperium",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1234-simperium.jpg",
+            "humanURL": "https:\/\/simperium.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/simperium-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/simperium-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/simperium.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.simperium.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/simperium"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/simperium"
+        },
+        {
+            "type": "Email",
+            "url": "contact@simperium.com"
+        },
+        {
+            "type": "Email",
+            "url": "help@simperium.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Simperium"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/simperium"
+        }
+    ]
+}
